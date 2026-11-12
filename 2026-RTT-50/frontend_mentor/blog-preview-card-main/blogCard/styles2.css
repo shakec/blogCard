@@ -28,7 +28,7 @@ body {
 #card {
     border-radius: 20px;
     width: auto;
-    height: 522px;
+    height: fit-content;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -102,6 +102,10 @@ h1 {
 }
 
 /* ATTRITBUTION */
+footer {
+    padding-top: 60px;
+}
+
 attribution { 
     font-size: 0.6875rem; 
     text-align: center; 
@@ -109,4 +113,13 @@ attribution {
 
 .attribution a { 
     color: hsl(228, 45%, 44%); 
+}
+
+/* HOVER */
+#card:hover h1 {
+    color: var(--color-yellow);
+}
+
+#card:hover {
+    box-shadow: 12px 12px 0 0 #000;
 }

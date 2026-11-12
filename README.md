@@ -1,4 +1,6 @@
-# Reflection Questions:
+# _[Click to Fast Track to Project Folder]([url](https://github.com/shakec/blogCard/tree/3d0e3eae8c34e8e425b9fdc85319a7912f5a60da/2026-RTT-50/frontend_mentor/blog-preview-card-main/blogCard))_
+
+# REFLECTION QUESTIONS:
 
 ## 1. How did using Figma designs as references affect your coding process?
 For the first challenge Figma was the star, I didn't copy any code over but as a visual reference that I could use (design and dev) being able to see padding and other useful key items, was very helpful. I knocked it out pretty easy.
